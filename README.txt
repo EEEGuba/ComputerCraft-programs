@@ -4,4 +4,4 @@ GreeterBot greets people passing by an area every time they have been away for a
 it uses the AP chatbox, speaker and player detector
 
 PocketBlockScanner gives an estimation of chests and stone bricks on a basic gui i made close to a radar 
-indicates all 3 dimensions by changing the dot form, usefull for buried treasure
+indicates all 3 dimensions by changing the dot form, useful for buried treasure. Uses Advanced pocket geo computer
