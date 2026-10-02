@@ -8,5 +8,5 @@ indicates all 3 dimensions by changing the dot form, useful for buried treasure.
 
 ItemDispenser displays the whitelist of items with numbers from the connected AE2 system, then makes you chat with the greeterBot, you ask for it it asks what you 
 want, you give full item f.ex. "minecraft:dirt" it searches whether its allowed to give it, if so asks how much, you tell it f.ex. "50" 
-and it dispenses 50 dirt to the chest and asks if you need something else, either you say another thing or say goodbye. 
+and it dispenses 50 dirt to the chest and asks if you need something else, either you say another thing or say goodbye. whitelist.dat makes the items in it get listed no matter if there is 1000 or just 1, blacklist.dat makes it ignore the item no matter how many there are.
 Uses MEBridge connected to AE2 system, chatbox and monitor.
